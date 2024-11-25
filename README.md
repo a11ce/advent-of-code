@@ -1,3 +1,9 @@
-# Advent of Code 2021
+# Advent of Code
 
-if ur in 111 go away
+| Year 	| Stars (during) 	| Stars (now) 	|
+|------	|----------------	|-------------	|
+| 2024 	| 0              	|             	|
+| 2023 	| 2              	| 2           	|
+| 2022 	| 16             	| 16          	|
+| 2021 	| 23             	| 23          	|
+| 2020 	| 11             	| 11          	|
