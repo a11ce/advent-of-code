@@ -1,3 +1,5 @@
+[Link to my AoC 2024 page.](https://a11ce.com/advent-of-code.html)
+
 My allowed languages for this year are:
 
 - c
