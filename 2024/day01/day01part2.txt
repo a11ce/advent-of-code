@@ -1,0 +1,6 @@
+I did this in google sheets because I don't have excel but it should be similar.
+
+1. Paste the input in columns A and B.
+2. In column D, fill with `=COUNTIF(B:B,A1)`.
+3. In column E, fill with `=A1*D1`.
+4. In F1, `=SUM(E:E)`.
