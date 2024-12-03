@@ -34,5 +34,9 @@ My allowed languages for this year are:
 - rosette
 - racket without let or defines (all lambdas)
 - julia
+- C++ with no libraries
+- smalltalk
+- minecraft command language
+- applescript
 
 If you have a suggestion, you can [contact me](https://a11ce.com) and I will probably add it. It can be an esolang, other method, or even a cool (but normal) language you think I should check out.
