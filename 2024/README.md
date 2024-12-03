@@ -38,5 +38,6 @@ My allowed languages for this year are:
 - smalltalk
 - minecraft command language
 - applescript
+- ruby (only when perl is particularly suitable)
 
 If you have a suggestion, you can [contact me](https://a11ce.com) and I will probably add it. It can be an esolang, other method, or even a cool (but normal) language you think I should check out.
